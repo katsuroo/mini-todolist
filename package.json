@@ -1,0 +1,26 @@
+{
+  "name": "react-todolist",
+  "version": "1.0.0",
+  "description": "reactweek 1 exercise",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/katsuroo/react-todolist"
+  },
+  "author": "john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katsuroo/mini-todolist
+  },
+  "homepage": "https://github.com/katsuroo/mini-todolist",
+  "dependencies": {
+    "react": "^0.13.2"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.8.11"
+  }
+}
